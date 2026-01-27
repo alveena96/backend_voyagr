@@ -67,3 +67,4 @@
 # [alveena96] Fix CORS issue — 2026-01-27 14:53
 # [alveena96] Update hotel schema — 2026-02-13 10:39
 # [alveena96] Fix duplicate entry bug — 2026-03-08 10:27
+# [alveena96] Fix migration conflict — 2026-01-27 14:41
