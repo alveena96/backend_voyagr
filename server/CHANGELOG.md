@@ -258,3 +258,4 @@
 # [alveena96] Fix serializer bug — 2026-02-24 14:35
 # [alveena96] Update hotel schema — 2026-03-17 10:20
 # [alveena96] Improve session handling — 2026-01-31 17:10
+# [alveena96] Improve migrations — 2026-02-11 13:09
