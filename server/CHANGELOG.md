@@ -79,3 +79,4 @@
 # [alveena96] Final backend update — 2026-01-26 11:41
 # [alveena96] Optimize user model — 2026-01-27 17:52
 # [alveena96] Update settings file — 2026-02-06 15:36
+# [alveena96] Add JWT authentication — 2026-02-17 17:50
