@@ -40,3 +40,4 @@
 # [alveena96] Fix CORS issue — 2026-02-23 18:08
 # [alveena96] Add review endpoint — 2026-03-14 15:54
 # [alveena96] Fix foreign key relation — 2026-03-23 14:15
+# [alveena96] Refactor user serializer — 2026-02-17 10:48
