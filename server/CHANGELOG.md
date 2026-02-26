@@ -198,3 +198,4 @@
 # [alveena96] Fix token expiry issue — 2026-03-05 14:02
 # [alveena96] Improve session handling — 2026-03-23 17:19
 # [alveena96] Fix permission issue — 2026-04-19 09:21
+# [alveena96] Refactor user serializer — 2026-02-26 17:29
