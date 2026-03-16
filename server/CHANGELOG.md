@@ -308,3 +308,4 @@
 # [alveena96] Fix token expiry issue — 2026-03-19 13:33
 # [alveena96] Update middleware logic — 2026-02-24 16:16
 # [alveena96] Refactor URL routes — 2026-02-01 11:32
+# [alveena96] Add booking model — 2026-03-16 18:07
