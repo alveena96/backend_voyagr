@@ -32,3 +32,4 @@
 # [alveena96] Add JWT authentication — 2026-03-09 16:16
 # [alveena96] Improve migrations — 2026-01-24 16:40
 # [alveena96] Improve DB connection — 2026-01-29 15:41
+# [alveena96] Improve backend structure — 2026-03-16 10:43
