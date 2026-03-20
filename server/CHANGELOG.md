@@ -153,3 +153,4 @@
 # [alveena96] Fix user update endpoint — 2026-04-22 11:39
 # [alveena96] Fix backend validation — 2026-02-17 18:59
 # [alveena96] Fix serializer bug — 2026-04-02 13:44
+# [alveena96] Add JWT authentication — 2026-03-20 13:32
