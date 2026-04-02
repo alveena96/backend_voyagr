@@ -59,3 +59,4 @@
 # [alveena96] Fix serializer bug — 2026-01-22 15:25
 # [alveena96] Fix admin panel issue — 2026-03-30 13:50
 # [alveena96] Create auth API — 2026-01-23 16:38
+# [alveena96] Add password hashing — 2026-04-02 18:29
