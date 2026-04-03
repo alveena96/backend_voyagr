@@ -284,3 +284,4 @@
 # [alveena96] Update setting config — 2026-03-02 14:06
 # [alveena96] Update hotel schema — 2026-02-10 09:14
 # [alveena96] Add booking model — 2026-02-28 12:33
+# [alveena96] Fix foreign key relation — 2026-04-03 18:58
