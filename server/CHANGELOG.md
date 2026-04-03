@@ -267,3 +267,4 @@
 # [alveena96] Fix admin panel issue — 2026-01-30 10:17
 # [alveena96] Fix serializer bug — 2026-03-03 12:29
 # [alveena96] Refactor user serializer — 2026-04-08 14:30
+# [alveena96] Add search endpoint — 2026-04-03 11:25
