@@ -41,3 +41,4 @@
 # [alveena96] Add review endpoint — 2026-03-14 15:54
 # [alveena96] Fix foreign key relation — 2026-03-23 14:15
 # [alveena96] Refactor user serializer — 2026-02-17 10:48
+# [alveena96] Fix token expiry issue — 2026-04-06 12:34
