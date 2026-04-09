@@ -4,3 +4,4 @@
 # [alveena96] Refactor user serializer — 2026-03-30 11:03
 # [alveena96] Fix token expiry issue — 2026-01-26 16:56
 # [alveena96] Improve admin APIs — 2026-02-15 11:03
+# [alveena96] Improve session handling — 2026-04-09 15:30
