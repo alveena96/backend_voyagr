@@ -26,7 +26,7 @@ CSRF_TRUSTED_ORIGINS = [
 ]
 CSRF_ALLOWED_ORIGINS = CSRF_TRUSTED_ORIGINS
 # **************************************************************************************
-STRIPE_SECRET_KEY = "sk_test_51TPK2rAUM5Z4txQKS2pegoPThbLkYqlhHvrkcs3yN8Hush625oCzeO5NPFBlHgMuz5gdPiScV1zk2JyCgJF8rxNV00YboDiplX"
+STRIPE_SECRET_KEY = ""
 
 # Application definition
 
