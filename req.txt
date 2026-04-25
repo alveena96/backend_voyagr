@@ -1,0 +1,13 @@
+geopy
+stripe
+django
+djangorestframework
+django-cors-headers
+django-filter
+djangorestframework-simplejwt
+requests
+requests==2.31.0
+stripe
+Pillow
+
+#npm install @stripe/stripe-react-native
